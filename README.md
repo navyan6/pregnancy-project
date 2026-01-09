@@ -1,6 +1,7 @@
 # AI-Based Prediction of High-Risk Pregnancies
 
-Machine learning models for early identification of high-risk pregnancies using demographic, clinical, and laboratory data, with an emphasis on interpretability and deployment feasibility.
+Machine learning models for early identification of high-risk pregnancies using demographic, clinical, and laboratory data, with an emphasis on interpretability and deployment feasibility. Predicting pregnancy complications is a challenging modeling problem due to heterogeneous patient populations, missing and noisy clinical measurements, and highly nonlinear interactions between physiological risk factors.
+
 
 ## Overview
 
